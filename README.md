@@ -16,7 +16,7 @@ sités.
 #Espace de Croyance : 
 -Représente les informations qui sont acquise à partir de chaque
 université.
-
+<blockquote>une citation est un paragraphe ouvert par un chevron fermant</blockquote>
  <hr/>
  
  <h1>Bibliothèques utilisé</h1>
