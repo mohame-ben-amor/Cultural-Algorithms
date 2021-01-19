@@ -9,14 +9,10 @@ les universités en des groupes qu’en peut aussi d´eterminer le nombre de gro
 Le résultat donne des groupements des université dans un courbe et avec l’intervention des
 gens dont leur mission est de connaitre qui sont les meilleurs model par rapport les autres.
 
-#Espace de population :
--les individus dans notre cas sont les points colorés sont les univer
-sités.
-
-#Espace de Croyance : 
--Représente les informations qui sont acquise à partir de chaque
-université.
-<blockquote>une citation est un paragraphe ouvert par un chevron fermant</blockquote>
+<blockquote>Espace de population : les individus dans notre cas sont les points colorés sont les univer
+sités.</blockquote>
+<blockquote>Espace de Croyance : Représente les informations qui sont acquise à partir de chaque
+université.</blockquote>
  <hr/>
  
  <h1>Bibliothèques utilisé</h1>
