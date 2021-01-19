@@ -19,9 +19,10 @@ université.
 
  <hr/>
  
-*** Bibliothèques utilisé ***
-*****************************
+
 <ul>
+ *** Bibliothèques utilisé ***
+*****************************
     <li>Numpy</li>
     <li>Pandas</li>
     <li>Matplotlib</li>
